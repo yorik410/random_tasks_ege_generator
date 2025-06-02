@@ -1,0 +1,2 @@
+requests~=2.32.3
+sdamgia-api~=0.1.7
